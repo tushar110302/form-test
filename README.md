@@ -20,9 +20,9 @@ Make sure the following NuGet packages are installed:
 dotnet add package Selenium.WebDriver
 dotnet add package Selenium.WebDriver.ChromeDriver
 ```
+-->
 
 ```bash
 dotnet restore
 dotnet run
 ```
--->
