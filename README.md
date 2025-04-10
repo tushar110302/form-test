@@ -21,6 +21,9 @@ dotnet add package Selenium.WebDriver
 dotnet add package Selenium.WebDriver.ChromeDriver
 ```
 -->
+## 📦 Packages Used
+- Selenium.WebDriver
+- Selenium.WebDriver.ChromeDriver
 
 ```bash
 dotnet restore
